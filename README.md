@@ -40,14 +40,7 @@ Many user prompts are short, noisy, ambiguous, or poorly structured. RePrompt ac
            │  │ DistilBERT fallback classifier │
            │  └────┬───────────────────────────┘
            │       │
-           │  ┌────▼──────────┐
-           │  │ Conf ≥ 0.5?   │
-           │  └──┬────────┬───┘
-           │     │ YES    │ NO
-           │     │        └──────►  Default to
-           │     │                  general_qa
-           │     │
-┌──────────▼─────▼──────────────────────────┐
+┌──────────▼───────▼──────────────────────────┐
 │ Prompt enhancement using intent-specific  │
 │ instructions                              │
 │ LFM2.5-1.2B-Instruct                      │
