@@ -14,15 +14,48 @@ It combines:
 
 Many user prompts are short, noisy, ambiguous, or poorly structured. RePrompt acts as a middleware layer between the user and the target LLM.
 
-The pipeline:
+## Pipeline
 
 ```text
-Raw Query
-  -> Regex Cleanup
-  -> Intent Classification
-  -> Confidence Check + DistilBERT Fallback
-  -> Intent-Aware Prompt Enhancement
-  -> Better Prompt
+┌──────────────────────────────┐
+│ User query                   │
+└──────────────┬───────────────┘
+               │
+┌──────────────▼───────────────┐
+│ Tiny regex cleanup           │
+│ (spaces, punctuation, casing)│
+└──────────────┬───────────────┘
+               │
+┌──────────────▼────────────────────────────┐
+│ Intent classification                      │
+│ LFM2.5-1.2B-Instruct (4-bit + LoRA + head)│
+└──────────────┬────────────────────────────┘
+               │
+        ┌──────▼──────┐
+        │ Conf ≥ 0.5? │
+        └──┬───────┬──┘
+           │ YES   │ NO
+           │       │
+           │  ┌────▼───────────────────────────┐
+           │  │ DistilBERT fallback classifier │
+           │  └────┬───────────────────────────┘
+           │       │
+           │  ┌────▼──────────┐
+           │  │ Conf ≥ 0.5?   │
+           │  └──┬────────┬───┘
+           │     │ YES    │ NO
+           │     │        └──────►  Default to
+           │     │                  general_qa
+           │     │
+┌──────────▼─────▼──────────────────────────┐
+│ Prompt enhancement using intent-specific  │
+│ instructions                              │
+│ LFM2.5-1.2B-Instruct                      │
+└──────────────┬────────────────────────────┘
+               │
+┌──────────────▼───────────────┐
+│ Return enhanced prompt       │
+└──────────────────────────────┘
 ```
 
 ### Supported intents
