@@ -1,0 +1,759 @@
+rawquery,intentlabel
+raw_query,intent_label
+"""i need to undrestand how black holes form because i keep reading different things and the science words are too hard for me so explain it in simple way like i am beginner""",general_qa
+"""why my phone battery drain so fast even when i dont use much apps and i wanna know what is the main reason for it because this is happening all the time""",general_qa
+"""can u explain cloud computing in short but in simple words because i dont understand all this tech stuff and every explanation i read feels too complicated""",general_qa
+"""how wifi work in simple way i know internet is there but i dont understand how it actually reaches my phone and what is going on behind it""",general_qa
+"""ai vs ml explain easy because both sound same to me and i dont know the difference and i keep mixing both every time""",general_qa
+"""what happen if i dont sleep enough for many days like what problem can come and how bad it can get if i keep doing that""",general_qa
+"""how does photosynthesis happen i have forgotten this from school and need simple explanation with basic idea only""",general_qa
+"""what is recursion i dont get it at all even after reading some examples and i need someone to explain it like very basic""",general_qa
+"""how to improve focus while studying because i keep getting distracted every few minutes and i dont know how to stay on one thing""",general_qa
+"""why laptop gets hot so much even when i only open few tabs and do simple work and i want to know what may be causing it""",general_qa
+"""what is difference between sql and nosql tell me in simple way because i keep seeing both and not sure when to use which one""",general_qa
+"""how black hole seen if light cant escape and why scientists still talk about it like how can we even know it is there""",general_qa
+"""what is machine learning simple explain like i am beginner because i tried reading but it feels too hard for me""",general_qa
+"""why sky look blue in day but night its dark and what is the actual reason for this""",general_qa
+"""how internet works in short i want basic idea not too deep because all this network stuff confuses me""",general_qa
+"""i keep hearing people talk about quantum computers like they will change everything but when i try reading about qubits superposition and all that stuff i get totally lost can u explain what this actually is in very simple words and why normal computers are not enough""",general_qa
+"""my phone storage keeps getting full even when i delete photos and some apps and then after few days same problem again so i dont undrestand where all the space is going can u explain what usually causes this""",general_qa
+"""i was using maps yesterday and it showed exact location even when i had just turned internet back on and now im confused how gps internet and location all work together can u explain in simple way becuase this stuff confuses me""",general_qa
+"""everyone says cookies on websites track users and every site keeps asking accept cookies but i honestly never understood what actually gets stored and what happens if i reject them can u explain properly in easy words""",general_qa
+"""my laptop fan starts making noise even when im only using browser youtube and few tabs nothing heavy so i dont get why it heats this much and what exactly inside is working hard""",general_qa
+"""i always hear people say ram and storage are different but in practical use i still mix them both becuase both seem like memory only can u explain the actual difference in simple normal person language""",general_qa
+"""how do online food apps show driver moving live on map like is that exact real time or estimated and how does that whole tracking thing actually work behind scenes""",general_qa
+"""i read that black holes bend space and even light cant escape but then somehow scientists still know about them and even took image or somthing so how does that make sense""",general_qa
+"""why does internet become super slow when many people at home use it at same time like if im paying for speed shouldnt i always get same speed this part i dont undrestand""",general_qa
+"""people keep saying ai is dangerous and others say its just advanced prediction machine so what actually is ai in practical sense and why are opinions so different everywhere""",general_qa
+"""my bluetooth earbuds sometimes connect instantly and sometimes keep failing again and again even though phone is same so i wanna undrestand what bluetooth actually does and why it behaves weird""",general_qa
+"""how do banks verify online payment so quickly when i buy somthing like money gets deducted almost instantly so is there actual human approval or all systems talking automatically""",general_qa
+"""i know clouds have water but how exactly does water go up from earth and become rain later i forgot all this after school and every explanation uses science terms i dont remember""",general_qa
+"""why do some people say incognito mode makes you private online but others say it does almost nothing now im confused what it actually hides and what it does not hide""",general_qa
+"""what exactly is api becuase developers around me keep saying just call the api just connect api and i nod like i understand but honestly i dont have clear picture of what it even is""",general_qa
+"""how does netflix or youtube somehow know what i might like next even when i didnt search exact thing it feels creepy accurate sometimes can u explain simple how recommendation works""",general_qa
+"""why do airplanes stay in air when they are so insanely heavy i know people say lift and pressure but i never fully got the actual logic in a simple understandable way""",general_qa
+"""my charger says fast charging and old one doesnt and both look similar with cable and plug so what exactly makes one charge phone much faster than another""",general_qa
+"""how does face unlock work on phones like how does it know its me not just a photo or random person with similar face and how secure is that actually""",general_qa
+"""i keep seeing terms frontend backend fullstack while reading tech jobs and i kinda guess meanings but can u explain clearly what each one actually does in real projects""",general_qa
+"""what is dns exactly becuase one time my wifi was broken and someone told me change dns settings and weirdly it worked but i had no clue what i actually changed""",general_qa
+"""why do stars twinkle so much in sky but planets usually look more stable i remember hearing this once but forgot actual reason and now im curious again""",general_qa
+"""how do qr codes store actual information in those black square patterns like how can scanner instantly read payment details or website links from that""",general_qa
+"""what exactly is open source software becuase if code is public then how do companies make money and why would they allow everyone to see their code""",general_qa
+"""why do i sometimes feel super sleepy after eating heavy lunch like body just wants shutdown mode is there actual biological reason for that or just laziness""",general_qa
+"""how does cloud storage actually work when people say your files are in cloud like obviously not floating in sky so where is the actual data stored""",general_qa
+"""why do some websites ask permission for notifications camera mic location and all kinds of access even when the site seems super simple is that normal or shady""",general_qa
+"""how does google search decide which website should come first becuase millions of pages exist and somehow results look sorted in useful order most of the time""",general_qa
+"""i always wondered why moon can be visible in daytime too becuase i used to think moon is only night thing so whats actual reason behind seeing it during day""",general_qa
+"""what does operating system actually do inside laptop apart from showing desktop and opening apps becuase clearly theres more happening but i dont know what""",general_qa
+"""how does voice assistant understand me even when i speak casually or with weird wording sometimes like is it matching words or actually understanding intent somehow""",general_qa
+"""why do some apps completely kill phone battery in background even when i didnt open them much i want to undrestand what background processes actually keep running""",general_qa
+"""what is virtual machine exactly becuase someone said its like running another computer inside your computer and that sounds weird and confusing to me""",general_qa
+"""why does fever happen when body gets sick like making body hotter feels like it should make things worse so why does body intentionally do that""",general_qa
+"""how does two factor authentication really improve security if hacker already knows password cant they just login anyway somehow im missing the actual logic""",general_qa
+"""what is cache becuase browser troubleshooting always says clear cache and cookies and i just click it without really knowing what data gets removed""",general_qa
+"""why do microwaves heat food so fast compared to normal stove i know radiation word gets mentioned but what actually happens to the food""",general_qa
+"""how does cryptocurrency get value if its not physical and not like normal government money i hear bitcoin price everywhere but still dont get why people value it""",general_qa
+"""why do earthquakes happen suddenly like is earth literally cracking under pressure or moving plates or somthing explain in simple way not textbook style""",general_qa
+"""how does touch screen know exact place where my finger touched without physical buttons like what is detecting the contact so accurately""",general_qa
+"""why does browser memory usage become crazy high when i only have multiple tabs open doing normal browsing not gaming or heavy editing""",general_qa
+"""how do satellites not just fall back to earth if gravity is always pulling everything down this thing never fully clicked for me""",general_qa
+"""why do some coding languages run faster than others if in the end computer only understands machine instructions anyway what causes speed difference""",general_qa
+"""how exactly does wifi signal reach my room through walls and still internet works like i know router sends signal but what physically travels""",general_qa
+"""what is hashing in passwords becuase people say websites should never store plain password but then how do they verify login correctly later""",general_qa
+"""why does my fridge keep making turning on off noises every now and then even when nobody opened it much is that normal cooling behavior or issue""",general_qa
+"""how do recommendation ads follow me after i searched one random product once it feels like internet is stalking me can u explain whats happening""",general_qa
+"""what exactly is machine learning in practical simple words not textbook definition becuase everyone uses the term differently and i keep getting confused""",general_qa
+"""why do some people get motion sickness in cars so badly while others can read books in moving vehicles with no issue at all""",general_qa
+"""how does email actually reach another person in seconds across countries like what systems are involved from send button to inbox delivery""",general_qa
+"""i always wondered how airplanes can stay in the air for so many hours when they are insanely heavy and people keep saying lift pressure thrust and all that but i never actually undrestood the simple full reasoning behind it""",general_qa
+"""my phone keeps saying storage almost full even after i deleted lots of photos apps and random files and after few days same warning comes back so where is all this space even going""",general_qa
+"""how do online maps somehow know exactly where i am even when im moving and sometimes internet is weak becuase gps satellites wifi and location all get mixed in my head""",general_qa
+"""people always say sleep is important but what actually starts going wrong in body and brain if someone keeps sleeping like 4 hours daily for long time becuase many people do that""",general_qa
+"""i keep hearing about inflation in news all the time and people blame it for everything getting expensive but i never fully got what actually causes prices to keep going up like this""",general_qa
+"""how do voice assistants understand what im saying even when i dont speak perfectly clearly and sometimes change sentence halfway like are they matching words or actually understanding meaning""",general_qa
+"""why do some people remember dreams in crazy detail while others wake up with absolutely nothing in memory becuase i find that really wierd""",general_qa
+"""how does internet actually travel from some company building all the way into my room through router and then into phone becuase this still feels like invisible magic honestly""",general_qa
+"""what exactly happens inside microwave when food gets hot so quickly becuase i know radiation gets mentioned but i dont actually understand what the food molecules are doing""",general_qa
+"""why does body get fever during sickness if high temperature itself feels terrible and dangerous like why would body intentionally make itself hotter""",general_qa
+"""how do banks move money so fast during online payments like if i pay for somthing it updates almost instantly so is everything fully automated behind scenes""",general_qa
+"""people say private browsing doesnt actually make you private and now im confused what it even does then becuase i thought thats the whole point of using it""",general_qa
+"""how do recommendation systems get so scary accurate like i search one random thing and suddenly every app seems to know what i may want next""",general_qa
+"""why do stars twinkle in sky but planets often look much steadier becuase as kid i thought everything in sky should look same from earth""",general_qa
+"""how does qr code store actual information in random black square patterns and how does scanner read it instantly without confusion""",general_qa
+"""what is difference between debit card and credit card in actual practical life becuase both seem like same payment thing from user side""",general_qa
+"""how does cloud storage work when people say your files are in cloud becuase obviously they are not floating in sky so where exactly is everything stored""",general_qa
+"""why do some apps drain battery insanely fast even when im barely using them and phone says background activity but what does that even mean exactly""",general_qa
+"""how does bluetooth send music wirelessly without cable and why does sound sometimes lag or disconnect randomly even when device is nearby""",general_qa
+"""why do earthquakes happen suddenly like does earth literally crack open under pressure or is there some slower movement that suddenly releases energy""",general_qa
+"""how does facial recognition on phones know its actually me and not just a photo of me or someone who kinda looks similar""",general_qa
+"""what exactly is cache becuase every troubleshooting guide says clear cache and cookies and i just do it blindly without knowing what got removed""",general_qa
+"""why do some websites load instantly while others feel painfully slow even when my internet looks fine and nothing else is downloading""",general_qa
+"""how do satellites stay in orbit without just falling back down if gravity is constantly pulling everything toward earth""",general_qa
+"""why does cutting onions make eyes water so badly and why are some onions much worse than others becuase this feels unnecessarily cruel""",general_qa
+"""what exactly is api in very simple terms becuase developers keep casually mentioning it like everyone should automatically know what it means""",general_qa
+"""how do touch screens know exact place where finger touched without actual physical buttons becuase that precision still feels impressive""",general_qa
+"""why do some chargers make phone charge insanely fast while others take forever even when plug and cable look almost identical""",general_qa
+"""how does email reach someone across another country in seconds after pressing send like what actual systems are involved in between""",general_qa
+"""why do people say drinking too much sugar gives quick energy and then crash later what is actually happening in body during that""",general_qa
+"""how does operating system actually help computer beyond just showing icons and opening apps becuase clearly lots more is happening under hood""",general_qa
+"""what makes one programming language faster than another if in the end everything runs on same computer hardware somehow""",general_qa
+"""how does wifi signal go through walls and still work across rooms becuase if its some invisible signal what weakens or blocks it""",general_qa
+"""why do browsers eat so much ram when i only have normal tabs open not games or editing tools it feels ridiculous sometimes""",general_qa
+"""what exactly is open source software becuase if everyone can see code then how do companies still build business around it""",general_qa
+"""how does gps still work when im moving fast in car and map keeps updating almost perfectly becuase that timing accuracy seems crazy""",general_qa
+"""why do humans yawn when sleepy or even when seeing someone else yawn becuase that second part especially makes no sense to me""",general_qa
+"""how does cryptocurrency get value if its not backed by physical thing like gold or normal government systems i never understood that""",general_qa
+"""why do laptops get super hot even when doing what feels like simple tasks like browser video calls and documents nothing heavy""",general_qa
+"""how does spam detection know some messages are suspicious while normal ones pass through becuase it seems pretty accurate most of the time""",general_qa
+"""why do some people get motion sickness badly in cars while others can read books comfortably without any problem at all""",general_qa
+"""how do weather forecasts predict rain days ahead when weather feels so random and changing all the time from normal human perspective""",general_qa
+"""what exactly is virtual machine becuase someone described it like computer inside another computer and that sounded both cool and confusing""",general_qa
+"""how does search engine decide what result should come first when millions of pages probably exist for same question""",general_qa
+"""why do some people snore loudly while others sleep silently is that just anatomy thing or sign of some health issue""",general_qa
+"""how does digital photo become actual computer data becuase image turning into numbers and storage is hard for me to mentally picture""",general_qa
+"""why is moon visible sometimes in daytime becuase growing up i always assumed moon belongs only to night sky""",general_qa
+"""how does machine translation between languages work so quickly now becuase older translations used to be terrible and now many are surprisingly decent""",general_qa
+"""why do refrigerators keep making turning on and off sounds every now and then even when nobody opened them much is that completely normal""",general_qa
+"""how does two factor login really make account safer if someone already knows password becuase i want to understand actual security logic there""",general_qa
+"""i have this python list and i want sort it in decending order but my code is not giving right output can u tell me the proper code and where i am doing wrong because i keep getting confused""",coding
+"""fix this js code its not working and i keep getting eror but i dont know what mistake i made and why it is failing""",coding
+"""how to write loop in c++ pls because i forget syntax and i need quick example so i can understand fast""",coding
+"""give sql query for top 5 salary from table but i dont know how to write it and what logic should i use for that""",coding
+"""python code to read csv file and print rows can u give me simple one because i am stuck and not sure how to start""",coding
+"""my react page not loading what wrong i checked but still not sure and i think maybe there is some issue in my component""",coding
+"""can u debug this function for me i think logic is wrong somewhere and i dont know how to find the bug""",coding
+"""write code for login form in flask because i need basic working example and also want to know how the form connects""",coding
+"""need api call example in node js i want to understand how it works because i am new and cant figure out the request part""",coding
+"""how to remove duplicate from array in js please give code and short explanation because i am getting wrong output""",coding
+"""write program to reverse string in python but make it simple because i only need basic version""",coding
+"""python code for web scraping i want basic sample not complex because i just want to see how it works""",coding
+"""how to connect mysql with python i am confused with steps and dont know what should come first""",coding
+"""fix error in this code pls i cant find why its failing and i keep changing things but nothing works""",coding
+"""make function for factorial in java and tell me what it does because i need both code and idea""",coding
+"""i changed some logic in my python script becuase i wanted cleaner output but now same input gives weird results and sometimes crashes with key eror and i keep staring at it for hour but cant spot what stupid thing i broke""",coding
+"""my website was looking fine yesterday but after i moved few layout things around now mobile view is completely broken with buttons overlapping text going outside screen and i honestly dont know what exactly caused this mess""",coding
+"""im trying to fetch data from some endpoint and expected response to show up but instead i keep getting undefined values and i think maybe im accessing nested data wrong but not fully sure where the mistake is""",coding
+"""i wrote logic for repeating task until condition becomes false but instead thing just keeps going forever until system hangs and i clearly messed something in stopping condition but cant see it""",coding
+"""my login flow kinda works but after refreshing page user gets kicked out like session never stayed and im confused if issue is browser cookies config or something else in setup""",coding
+"""trying to pull data from database with multiple related tables but output has repeated rows and counts look inflated so maybe my matching logic is wrong but i dont properly undrestand why""",coding
+"""i renamed one entity in my project and after that database migration stuff became cursed with messages about already existing tables broken references and now im scared to touch anything""",coding
+"""im new to backend stuff and trying to make browser send data to server and get json back but tutorials skip steps and i dont fully get how request response flow actually fits together""",coding
+"""some collection cleanup logic i wrote should remove repeated values but output still has duplicates and i feel like im missing easier cleaner approach than what i hacked together""",coding
+"""after adding one dependency my mobile app just crashes instantly on startup and i dont even reach first screen so maybe version conflict or initialization issue but logs are confusing""",coding
+"""trying to work with spreadsheet data where some values are empty weirdly formatted or mixed types and cleanup keeps failing halfway with conversion issues i didnt expect""",coding
+"""i thought containerized app would keep running but it starts and exits immediately like it just gives up and i suspect main process ends too fast but not sure how to inspect that""",coding
+"""my styling changes dont apply even though class names look correct and browser inspector shows weird stuff maybe build config is broken or files not recompiling properly""",coding
+"""im trying to save uploaded files from browser input but handling request side storage naming and validation all feel confusing and examples online assume i already know basics""",coding
+"""after pulling latest changes my attempt to push my own work got rejected with confusing message about history mismatch and now im scared of overwriting teammate work accidentally""",coding
+"""trying to loop through data structure and update values based on condition but somehow original values remain unchanged and i think maybe mutation vs copying issue is tricking me""",coding
+"""im attempting async request flow but things execute in strange order and values are missing becuase response comes later than expected and my mental model is clearly wrong""",coding
+"""some numerical matrix operation throws dimension mismatch message and i dont fully get how rows columns are supposed to align for multiplication here""",coding
+"""browser keeps making same network request again and again after one small UI state change and performance becomes terrible so i likely created accidental rerender loop""",coding
+"""trying to read nested config file values but one missing field crashes whole process and i need safer way to handle unpredictable input without everything exploding""",coding
+"""my command line automation works manually but when scheduled it fails silently and i cant figure if environment path permissions or working directory are different""",coding
+"""search feature i built returns strange results where partial matches work sometimes but obvious exact matches fail so maybe query logic or indexing issue exists""",coding
+"""trying to sort records based on custom rule but ordering comes out inconsistent and i suspect my comparison logic doesnt handle edge cases correctly""",coding
+"""my local environment works fine but same project fails on another machine with dependency related complaints so setup reproducibility is clearly broken somewhere""",coding
+"""i keep getting null pointer style failure when accessing object property and thought value would always exist but apparently some execution path leaves it empty""",coding
+"""trying to connect application with relational database for first time and configuration files usernames ports drivers all feel like too many moving pieces and i keep missing one""",coding
+"""pagination logic almost works but page boundaries act weird like skipping records or repeating same chunk and math for offsets may be wrong""",coding
+"""input validation i added blocks some correct values and allows some obviously bad ones so my pattern matching logic clearly needs fixing""",coding
+"""trying to process huge file but memory usage spikes badly and app slows to death so maybe im loading everything at once instead of smarter approach""",coding
+"""my authentication token seems valid initially but later requests suddenly fail like token expired or header not being attached consistently""",coding
+"""date handling is becoming nightmare becuase timezone differences make same timestamp show differently across systems and comparisons break unexpectedly""",coding
+"""trying to trigger background task after user action but long process blocks everything and i realize synchronous flow may be wrong for this use case""",coding
+"""some data aggregation output is off by one in weird cases and i checked loops multiple times but boundary condition bug keeps hiding from me""",coding
+"""attempting to parse text with pattern matching but real world messy input breaks assumptions and extraction fails for many slightly different formats""",coding
+"""my form submits blank values even though user typed things and maybe field binding or naming mismatch exists between interface and processing logic""",coding
+"""trying to share state between multiple UI components but updates dont reflect consistently and prop drilling vs shared state architecture is confusing me""",coding
+"""cache layer was supposed to improve speed but stale values keep showing after updates so invalidation strategy is clearly not working right""",coding
+"""file path logic works on my computer but breaks on another operating system so im guessing separator or absolute relative handling issue exists""",coding
+"""some ranking logic for records gives unexpected order when values tie and i probably forgot deterministic secondary comparison handling""",coding
+"""when network connection is slow user interface becomes weirdly frozen and i think loading state handling is incomplete or blocking execution happens somewhere""",coding
+"""trying to merge two datasets based on common identifier but some records disappear and others duplicate so matching assumptions may be wrong""",coding
+"""unicode text input from users causes weird display or processing bugs while normal english works fine so encoding handling is probably messed""",coding
+"""after refactoring repeated logic into reusable function behavior changed subtly and now edge cases fail though original version somehow worked""",coding
+"""searching through logs manually is painful becuase issue appears only sometimes under load and i need better debugging approach to isolate intermittent failure""",coding
+"""retry mechanism for unreliable external service either retries too aggressively or gives up too early and my backoff logic probably needs redesign""",coding
+"""data from browser side reaches server but one important field is always missing and maybe serialization naming mismatch is dropping it silently""",coding
+"""permission related issue appears only in deployed environment not local and im confused whether filesystem access user roles or config differences are causing it""",coding
+"""i expected object comparison to say two values are equal but result says false and apparently reference vs value equality is something im misunderstanding""",coding
+"""stream processing logic occasionally loses final chunk of data and i suspect flush or end condition isnt handled correctly""",coding
+"""after integrating third party library simple startup became much slower and memory heavier so im wondering if initialization pattern or unnecessary imports are the culprit""",coding
+"""i changed some filtering logic in my script becuase output looked messy before but now certain expected rows completely disappear and i cant figure whether condition logic is too strict or im mutating data somewhere accidentally""",coding
+"""my frontend keeps showing old values even after i know backend data changed correctly so maybe some stale state caching or rerender issue exists but i cant trace where exactly its getting stuck""",coding
+"""i tried handling user input validation more carefully but now even clearly valid inputs are getting rejected and somehow some obviously broken ones still pass through which makes no sense""",coding
+"""my script works fine with small sample data but when i run actual larger dataset memory usage explodes and system becomes painfully slow so i clearly designed something badly""",coding
+"""im trying to combine two separate data sources using common identifiers but resulting merged output has missing entries and some duplicated weirdly so matching assumptions are probably wrong""",coding
+"""after reorganizing project folders imports that worked perfectly before now keep failing with module not found type complaints and i dont fully understand resolution paths""",coding
+"""i expected background scheduled task to run automatically overnight but nothing happened and logs are almost empty so maybe scheduler setup enviornment or permissions issue exists""",coding
+"""one weird bug only happens for certain user inputs with special characters while normal english text works fine so im guessing encoding parsing or sanitization issue somewhere""",coding
+"""i attempted to optimize repeated expensive operation by storing temporary results but now sometimes outdated values show up and behavior feels inconsistent after updates""",coding
+"""my application behaves correctly locally but once deployed weird failures start happening around file access and config loading so clearly environment assumptions were wrong""",coding
+"""im processing timestamps from different sources and comparisons keep failing in confusing ways even though times look visually similar so timezone handling is probably messing things up""",coding
+"""some action triggered from button click fires twice for no obvious reason and ends up creating duplicate records which is causing lot of confusion""",coding
+"""i tried restructuring reusable helper logic to avoid duplication but after refactor some edge cases broke and original behavior changed in subtle annoying ways""",coding
+"""network request occasionally fails and retry handling i added either spams too many retries or gives up instantly so the retry strategy clearly needs smarter logic""",coding
+"""im trying to generate paginated results for large dataset but navigation between pages sometimes skips items or repeats same chunk and my indexing math may be broken""",coding
+"""some objects that i thought were seperate somehow affect each other when one changes which makes me think i misunderstood copying references and mutation behavior""",coding
+"""i parse uploaded configuration file from users but if one optional field is missing whole process crashes instead of handling gracefully and i need more robust approach""",coding
+"""my search feature behaves strangely where exact matches sometimes rank lower than loosely related results and users are complaining it feels random""",coding
+"""after integrating authentication checks some previously accessible routes now redirect unexpectedly even for valid users so access logic is probably too aggressive""",coding
+"""one long running process blocks everything else and interface becomes frozen until it finishes so i clearly handled this task in wrong execution model""",coding
+"""i keep seeing race condition style behavior where outcome changes depending on timing and its super hard to reproduce consistently which makes debugging painful""",coding
+"""i thought cleanup routine would free resources after operation but memory usage keeps slowly climbing over time like something never gets released properly""",coding
+"""some numeric calculations give slightly different results on different systems and i didnt expect environment differences to affect deterministic looking math""",coding
+"""im trying to parse loosely structured text input from users but tiny formatting variations completely break extraction logic and current approach feels too fragile""",coding
+"""there is issue where browser form clearly shows entered values but server side receives blanks for few fields so maybe naming mismatch or serialization problem exists""",coding
+"""my websocket style real time updates randomly stop after some time and reconnect behavior doesnt reliably restore communication which users definitely notice""",coding
+"""i built permission rules for different user roles but certain restricted actions still slip through under weird scenarios so authorization checks are incomplete somewhere""",coding
+"""batch processing works for first few files then suddenly fails halfway with unclear resource related behavior and i cant tell whether file handles or buffering is the culprit""",coding
+"""sorting logic works fine until records share same main value then order becomes inconsistent between runs which is creating confusing user experience""",coding
+"""i assumed third party service would always return same response structure but occasional differences break parsing badly so handling needs to become much more defensive""",coding
+"""my unit checks pass individually but when full workflow runs pieces interact strangely and hidden dependency between components is probably causing integration issue""",coding
+"""after adding logging for debugging performance dropped way more than expected and i didnt realize instrumentation itself could become bottleneck""",coding
+"""one endpoint works perfectly in browser manual testing but fails from application flow which makes me suspect headers auth context or request construction mismatch""",coding
+"""some generated filenames collide unexpectedly when many operations happen quickly causing overwrites and clearly my uniqueness assumption was too naive""",coding
+"""i expected failed transaction to roll back everything but partial data still gets saved under certain failure cases which is pretty dangerous""",coding
+"""input from mobile users causes formatting issues that desktop users never trigger so there may be platform specific behavior im not accounting for""",coding
+"""i implemented timeout handling for slow external dependency but now some legitimate slower operations get killed too aggressively and threshold tuning feels tricky""",coding
+"""state restoration after browser refresh is inconsistent where some user progress remains and other parts reset unexpectedly so persistence logic is fragmented""",coding
+"""one bug appears only under high concurrency when many users do same action together and normal testing never reveals it which makes reproduction difficult""",coding
+"""i assumed external library default behavior matched my needs but hidden defaults are causing weird transformations that took me forever to even notice""",coding
+"""error handling currently catches failures but hides useful debugging context so when something breaks i get vague messages that dont actually help trace root cause""",coding
+"""some calculations involving decimal money values produce tiny precision weirdness and totals dont match expected exact values which users immediately notice""",coding
+"""i tried introducing parallel execution for speed improvement but shared resource conflicts started appearing and now outcome feels nondeterministic""",coding
+"""my local cache improves response time nicely but invalidation after updates is unreliable so users sometimes keep seeing stale information long after changes""",coding
+"""certain uploaded files with uncommon formatting break parser even though they are technically valid and i need more tolerant handling for real world messy inputs""",coding
+"""application startup time became noticeably slower after adding several dependencies and initialization profiling suggests too much work happens before app is usable""",coding
+"""i have fallback logic for service failures but under certain chained failures fallback itself crashes becuase it assumes dependencies are healthy too""",coding
+"""one transformation pipeline step silently drops malformed records without alerting anyone which makes downstream totals mysteriously lower than source counts""",coding
+"""i expected object cleanup after request completion but resource handles seem to remain open causing gradual exhaustion after long uptime""",coding
+"""some configuration changes require full restart to take effect while others apply immediately and this inconsistency is confusing operationally""",coding
+"""i want to write a short story about lonely robot but i am not sure how to start it and need help making it interesting because i dont know what kind of ending will fit""",creative_writing
+"""make a poem on rainy night with calm and emotional feeling because i want it to sound soft and nice""",creative_writing
+"""create fantasy scene with dragon and castle and make it sound big and magical but not too hard to read""",creative_writing
+"""write dialogue between two friends after fight and keep it natural because i want it to sound real not fake""",creative_writing
+"""need a scary story for school but not too hard to read and not too long because i need something simple""",creative_writing
+"""write insta caption for travel pic that sounds cool and short because i want something catchy""",creative_writing
+"""make slogan for coffee brand something catchy and simple because i want it to stick in mind""",creative_writing
+"""write script for youtube intro that sounds energetic and not boring because i need good opening lines""",creative_writing
+"""compose a love letter but simple one not too fancy because i want it to feel natural""",creative_writing
+"""give me a motivational speech for exam day with strong lines because i need something that feels powerful""",creative_writing
+"""write a rap about coding and make it fun because i want it more entertaining""",creative_writing
+"""make a funny story about cat and dog fighting over food because i want it to be silly""",creative_writing
+"""write a movie scene in desert with suspense mood because i want it to feel dramatic""",creative_writing
+"""create a bedtime story for kid with soft and happy tone because it should feel safe and warm""",creative_writing
+"""make a product tagline for headphones that sounds premium because i want it to feel modern""",creative_writing
+"""i want somthing emotional about an old mechanical helper that has spent decades serving one family and now newer smarter replacements are arriving so the tone should feel lonely reflective and quietly heartbreaking without becoming overly dramatic""",creative_writing
+"""need somthing with tense atmospheric feeling where a person keeps hearing footsteps above their apartment every single night at exact same time even after finding out nobody has lived upstairs for years""",creative_writing
+"""im looking for somthing funny about coworkers trying to secretly order food during a painfully boring corporate meeting and everything keeps going wrong in increasingly ridiculous but believable ways""",creative_writing
+"""want somthing romantic but awkward between two longtime freinds who clearly have feelings but both keep avoiding saying anything directly and the emotional tension should feel natural not cheesy""",creative_writing
+"""need somthing dark futuristic where people can sell personal memories for money and poorer people slowly lose their happiest moments just to survive while richer people buy emotional experiences""",creative_writing
+"""i want somthing soft comforting around late night rain where someone is awake overthinking life choices old regrets and uncertain future and the mood should feel intimate calm and slightly melancholic""",creative_writing
+"""need somthing dramatic involving an interrogation where the person being questioned stays weirdly calm polite and cooperative but somehow becomes more suspicious with every answer they give""",creative_writing
+"""want somthing absurdly funny where aliens finally arrive on earth but instead of invading they immediately demand to speak with whoever handles customer complaints becuase apparently humans sold them something defective""",creative_writing
+"""i need somthing warm and comforting involving a lonely elderly person whose routine quietly changes after an unexpected connection with someone much younger from the neighborhood""",creative_writing
+"""want somthing set in a dying kingdom where rain hasnt fallen in years and a completely ordinary person accidentally discovers somthing impossible in what used to be a river""",creative_writing
+"""need somthing from perspective of a machine becoming outdated watching faster smarter versions replace it one by one while still remembering every human interaction it ever had""",creative_writing
+"""i want somthing suspenseful where someone wakes up to dozens of missed calls all somehow coming from their own number and the opening should immediately create unease""",creative_writing
+"""need somthing playful where a cat and dog have intense argument over which one actually owns the human they live with and their personalities should feel distinct and funny""",creative_writing
+"""want somthing emotional around moving away from hometown where random details like smells traffic noises weather and food unexpectedly trigger waves of memory""",creative_writing
+"""need somthing involving deep space isolation where communication has been gone for days and someone is trying to stay mentally stable while talking mostly to themselves""",creative_writing
+"""i want somthing around a child finding mysterious handwritten messages that slowly seem impossible to explain and emotional stakes should grow naturally over time""",creative_writing
+"""need somthing intense around airport goodbye where two people both know this may be the final time they see each other but neither fully says what they actually feel""",creative_writing
+"""want somthing cozy around rainy morning coffee where the overall feeling is comfort focus warmth and quiet productivity without sounding like generic advertisement nonsense""",creative_writing
+"""need somthing mythic involving conversation between powerful ancient creature and impulsive young royal where the wiser one is clearly not the human""",creative_writing
+"""i want somthing eerie where every month an unmarked package arrives containing strange objects somehow connected to forgotten childhood memories""",creative_writing
+"""need somthing heartfelt around parent secretly learning modern technology just to stay connected with child living far away and emotional payoff should feel sincere""",creative_writing
+"""want somthing tense cinematic around abandoned hospital exploration where signs suggest somebody was there just moments earlier despite official emptiness""",creative_writing
+"""need somthing weirdly funny where family tries repeatedly to capture one normal photo but every attempt gets ruined in completely different chaotic ways""",creative_writing
+"""i want somthing reflective around realizing parents are aging while you are busy building your own life and the emotional tone should feel honest not manipulative""",creative_writing
+"""need somthing around a road trip where freinds are exhausted broke mildly irritated with each other but somehow having unforgettable time anyway""",creative_writing
+"""want somthing with gothic melancholy around abandoned mansion faded portraits cracked mirrors endless rain and sense that time itself has stopped there""",creative_writing
+"""need somthing around detective discovering witness has personal history with accused person causing emotional complication during already high pressure situation""",creative_writing
+"""i want somthing motivational but grounded for someone who has failed repeatedly and now doubts themselves badly and it should feel believable not fake internet inspiration""",creative_writing
+"""need somthing absurd around a fictional product designed specifically to force chronic oversleepers out of bed in hilariously aggressive but creative ways""",creative_writing
+"""want somthing set in fantasy world where seasons last many years and society culture architecture daily life all evolved around surviving those extreme cycles""",creative_writing
+"""need somthing emotionally raw around breakup where both people still care deeply but know continuing together is hurting them more than separating""",creative_writing
+"""i want somthing involving pirate crew discovering map that might be complete fraud but charismatic captain insists trusting it despite obvious warning signs""",creative_writing
+"""need somthing around mysterious cheap apartment where strange sounds become routine until one discovery completely changes understanding of whats happening""",creative_writing
+"""want somthing funny around startup founders pretending everything is going amazingly during investor conversation while complete chaos unfolds behind scenes""",creative_writing
+"""need somthing reflective from viewpoint of forgotten object sitting untouched for years quietly observing human life changing around it""",creative_writing
+"""i want somthing emotionally intense where someone finally says what they should have said years earlier but timing may already be too late""",creative_writing
+"""need somthing with clever premium sounding vibe for luxury consumer product where current options all sound generic and forgettable""",creative_writing
+"""want somthing mysterious where small ordinary town has one local rule everyone follows without question but newcomers slowly discover disturbing reason""",creative_writing
+"""need somthing around academic burnout where exhausted student is balancing expectations fear comparison and silent pressure but still trying to keep going""",creative_writing
+"""i want somthing playful involving person arguing with their own future self who keeps giving unhelpful vague warnings instead of useful details""",creative_writing
+"""need somthing dramatic around courtroom tension where one unexpected recognition changes emotional dynamic instantly and nobody saw it coming""",creative_writing
+"""want somthing comforting whimsical around celestial object feeling overshadowed by brighter counterpart until realizing its quiet importance to others""",creative_writing
+"""need somthing around deep friendship damaged by one betrayal years ago where reunion conversation starts polite but unresolved tension leaks through slowly""",creative_writing
+"""i want somthing creepy around long empty road where travelers keep reporting same strange encounter across decades with details matching too closely""",creative_writing
+"""need somthing around inventor creating something world changing but realizing unintended consequences far too late and emotional conflict should feel intelligent""",creative_writing
+"""want somthing around lonely night shift worker whose routine changes after repeated unexplained interaction that may or may not be real""",creative_writing
+"""need somthing funny around human attempts to look productive during online meetings while actually dealing with ridiculous offscreen chaos""",creative_writing
+"""i want somthing emotional around someone reading messages left behind by person they never got proper closure with and slowly understanding hidden meaning""",creative_writing
+"""need somthing with adventurous youthful energy where ordinary boring day suddenly becomes beginning of something wildly unexpected and bigger than imagined""",creative_writing
+"""want somthing bittersweet around success finally arriving after years of rejection but not feeling exactly the way the person imagined it would""",creative_writing
+"""i need to write a mail to hr for leave tommorrow because i am not feeling well and i want it to sound polite and proper but i dont know how to phrase it without sounding too casual or too rude""",email
+"""mail manager late login today because i was stuck in traffic and need to make it sound professional and not too short""",email
+"""send apology email missed meeting and make it polite and short because i dont want it to sound awkward""",email
+"""draft email for internship request because i want to apply and dont know the format or what to say first""",email
+"""write formal mail for refund issue because product came damaged and i want a proper complaint with clear words""",email
+"""need reply to client delay in project and make it sound respectful because i want to explain without sounding careless""",email
+"""make email to teacher asking extension because i need more time for assignment and i want to sound polite""",email
+"""write leave application for fever and make it sound proper for office because i need to send it soon""",email
+"""email to team about meeting reschedule because timing changed and i need to inform everyone properly""",email
+"""write follow up mail after interview because i havent got any response yet and i want to ask in polite way""",email
+"""mail boss for work from home because i need one day due to family work and i want it to sound right""",email
+"""write complaint email about delay and make it strong but polite because i want them to take it seriously""",email
+"""send thank you email for interview and keep it short because i dont want to write too much""",email
+"""email to customer about product issue and explain the problem clearly because i need them to understand""",email
+"""need a mail to hr for salary slip because i have to submit it somewhere and i dont know how to ask""",email
+"""my manager needs to know i wont be coming tommorrow becuase fever got worse since morning and im not sure how to phrase it professionally without sounding too dramatic or too casual""",email
+"""i missed an important meeting with client becuase i completely messed up the timing conversion and now i need to say sorry properly in professional tone without sounding careless or irresponsible""",email
+"""i need to ask someone senior at company if they would consider me for internship opportunity but i always sound awkward in formal communication so i need help phrasing this properly""",email
+"""something i ordered arrived damaged with packaging already looking opened and suspicious so i need to communicate clearly that i want proper resolution without sounding unnecessarily aggressive""",email
+"""its been more than week since my interview and total silence since then so i want to politely check status without sounding desperate impatient or annoying""",email
+"""i need to let my manager know i may login late today becuase traffic is horrible plus vehicle issue happened and i want wording that sounds responsible not excuse making""",email
+"""family emergency came up and i genuinely need extra time for academic submission but i dont know how to explain situation respectfully without sounding like fake excuse""",email
+"""there is a delay in project delivery due to technical blockers and i need to communicate this to stakeholder in way that sounds accountable reassuring and professional""",email
+"""i need to ask finance department for official salary documents from previous months for loan process and formal wording always makes me overthink everything""",email
+"""my internet service has been unstable for days and support replies are useless copy pasted responses so i need to complain firmly but still professionally""",email
+"""i accidentally missed scheduled discussion becuase phone issue happened and now i need to request another time slot without sounding careless""",email
+"""i need to inform everyone that planned discussion timing changed due to scheduling conflict and message should be clear professional and not confusing""",email
+"""my professor gave assignment deadline but due to genuine personal issue i need short extension and want to ask respectfully without sounding lazy""",email
+"""i need to request recommendation from someone who taught me before and i dont know how to ask respectfully while giving enough context about why i need it""",email
+"""there is some issue with my salary credit or payroll details and i need to ask hr for clarification in proper professional wording""",email
+"""i need to politely remind someone that i still havent recieved files they said they would send and deadline is getting close so wording should not sound rude""",email
+"""my account or payment issue needs escalation becuase normal support has not solved anything and i need firm but professional communication""",email
+"""i need to thank interviewer for their time after discussion while also showing continued interest naturally without sounding overly robotic""",email
+"""there was confusion in requirement discussion and i need written confirmation from client so team can proceed without ambiguity or later blame""",email
+"""i need short permission for half day becuase personal appointment cannot be moved and i want wording that sounds respectful and professional""",email
+"""i need to ask university administration for official document urgently for application process and dont know proper formal phrasing""",email
+"""wrong product variant was delivered and i still want correct replacement rather than refund so i need to communicate that clearly""",email
+"""i lost access card during travel and need replacement urgently while explaining situation properly without making it sound careless""",email
+"""someone helped me significantly with difficult task and i want to properly appreciate them in professional tone without sounding overly emotional""",email
+"""my grades seem unexpectedly low and i want respectful request to review evaluation without sounding accusatory or entitled""",email
+"""there is repeated maintenance issue in apartment getting worse and i need to notify property owner clearly while staying polite""",email
+"""i accepted another opportunity and now need to respectfully withdraw from ongoing hiring process without burning bridges""",email
+"""tracking says parcel delivered but nothing actually arrived and i already checked nearby places so i need to report issue clearly""",email
+"""payment got deducted for event registration but confirmation never came and i need to ask about status in formal wording""",email
+"""i want to request short conversation with mentor for career guidance but dont know how to ask without sounding vague or random""",email
+"""i entered incorrect banking details earlier and now need to request correction urgently in professional tone""",email
+"""deadline is close and i need feedback from colleague on shared document but reminder should feel gentle not passive aggressive""",email
+"""i need official invoice copy from previous hotel stay for reimbursement becuase original is missing and wording should sound proper""",email
+"""my software subscription keeps failing activation with same repeated message and i need technical support escalation request phrased clearly""",email
+"""family medical situation means i may need temporary flexibility in work timings and i want to communicate respectfully while sounding committed to responsibilities""",email
+"""scholarship approval happened but payment still hasnt arrived and i need to politely ask administration what the delay is""",email
+"""my team member deserves appreciation for helping me and i want short professional thank you note that doesnt sound fake""",email
+"""i need confirmation whether some opening is still available becuase i recently became interested and want to express that professionally""",email
+"""there was verbal discussion about feature changes but i need written confirmation so future implementation confusion doesnt happen""",email
+"""i need prior travel receipts from airline support for reimbursement documentation and want formal clear wording""",email
+"""some system portal numbers look confusing regarding available leave and i need clarification before making wrong assumption""",email
+"""there is issue with utility or service in apartment complex happening repeatedly and i want to raise concern in firm but respectful way""",email
+"""i need to explain delayed response to someone important becuase i was dealing with unexpected issue and now want to apologize professionally""",email
+"""my mentor guided me throughout internship and i want to send sincere professional appreciation without sounding exaggerated""",email
+"""i need to ask whether official proof of employment can be shared for verification process and wording should be formal""",email
+"""financial statement copy is required urgently for visa or documentation purpose and i need to request it properly""",email
+"""there was misunderstanding in scheduling and now i need to propose alternate time in polished professional wording""",email
+"""i need to communicate that i wont be able to attend planned discussion due to unavoidable conflict but still want to stay respectful""",email
+"""refund timeline already passed and no money returned yet so i need firm professional follow up asking for actual resolution""",email
+"""i need to explain brief unexpected absence due to health issue while assuring pending responsibilities will be handled properly""",email
+"""my manager needs to know that i wont be able to join office tommorrow becuase fever got much worse since today afternoon and i dont know how to phrase it professionally without sounding irresponsible or overly dramatic""",email
+"""i completely messed up timezone conversion and missed an important discussion with client and now i need to apologize properly while also asking if another slot might be possible without sounding careless""",email
+"""its been more than 10 days since interview and total silence after what seemed like positive conversation so i want to check status politely without sounding pushy needy or impatient""",email
+"""family emergency happened unexpectedly and i need a little extra time for academic submission but im always terrible at sounding respectful in formal communication so i need help with wording""",email
+"""the package i recieved looked already opened and product inside was damaged and support chatbot is useless so i need proper professional wording that clearly explains issue without sounding angry""",email
+"""traffic plus sudden vehicle breakdown means i will probably be late logging in today and i need to communicate that in way that sounds responsible instead of like random excuse making""",email
+"""i need to ask someone senior in company whether they might consider me for an opportunity becuase im interested but dont want to sound awkward desperate or badly formatted""",email
+"""our project delivery may slip slightly becuase technical blocker appeared much later than expected and i need to communicate this carefully while still sounding accountable and professional""",email
+"""finance team needs to provide official salary related documents for loan processing and formal communication always makes me overthink every word so i need something polished""",email
+"""my internet provider keeps giving generic responses while service has been unstable for days and i need stronger wording that still remains professional instead of emotional rant""",email
+"""phone issue caused me to miss planned conversation and now i need to explain situation respectfully while requesting another chance without sounding careless or flaky""",email
+"""timing for internal discussion changed due to scheduling conflict and i need to inform everyone clearly so nobody shows up at wrong time or gets confused""",email
+"""i need official recommendation from someone who knows my work but asking for these things always feels uncomfortable and i need respectful wording with enough context""",email
+"""there seems to be some payroll confusion and amount doesnt look right but i want to raise concern professionally without sounding accusatory before understanding what happened""",email
+"""someone promised to send important documents earlier and deadline is now getting close so i need gentle reminder wording that doesnt come across passive aggressive""",email
+"""support issue has not been resolved after multiple attempts and now it clearly needs escalation but i still want wording that sounds firm and professional""",email
+"""after speaking with hiring team i want to express appreciation while also showing continued interest naturally without sounding robotic or fake corporate""",email
+"""our team discussed feature changes verbally but before development continues i need written confirmation so expectations dont shift later and create confusion""",email
+"""i need short professional wording asking for permission to be unavailable for part of the day becuase personal appointment cant be moved""",email
+"""some official university document is urgently needed for application process and i dont know how to phrase request in way that sounds formal but still human""",email
+"""wrong item variant arrived but i actually still want correct one instead of money back and need to communicate that clearly without unnecessary confusion""",email
+"""my access badge got lost during travel and i urgently need replacement becuase getting into workplace is now problem and wording should sound responsible""",email
+"""someone helped me massively during stressful work task and i want to express appreciation in polished professional way without sounding overly emotional""",email
+"""evaluation results looked surprisingly lower than expected and i want respectful wording asking whether review is possible without sounding entitled or argumentative""",email
+"""maintenance issue in apartment has gotten worse and earlier informal mentions didnt lead anywhere so now i need clearer professional communication""",email
+"""i accepted another opportunity after already being in hiring discussions elsewhere and want to communicate that respectfully without damaging relationship""",email
+"""tracking says shipment was delivered but nothing actually reached me and i already checked with neighbors so i need clear professional wording about missing delivery""",email
+"""payment got deducted for event registration but no confirmation arrived and now im unsure whether booking actually exists so i need formal clarification request""",email
+"""i would like brief guidance conversation with someone experienced but dont know how to ask respectfully without sounding vague random or time wasting""",email
+"""incorrect financial details were submitted earlier by mistake and now urgently need correction before processing continues so wording should be clear professional and responsible""",email
+"""deadline is approaching and i still havent recieved feedback needed to move forward so i need polite reminder wording that doesnt create friction""",email
+"""i lost official invoice from previous stay and reimbursement team requires it urgently so i need formal wording requesting duplicate copy""",email
+"""software service keeps failing with same activation problem despite retries and i need technical escalation wording that clearly explains repeated issue""",email
+"""temporary family medical situation may require slight flexibility in work timing for few days and i need respectful wording that still shows commitment to responsibilities""",email
+"""approved financial support has still not reflected after long wait and i need polite but clear wording asking what the delay is""",email
+"""someone mentored me throughout difficult internship period and i want sincere professional appreciation wording that doesnt sound exaggerated or fake""",email
+"""i want to check whether previously discussed opening is still available becuase my circumstances changed recently and now im interested again""",email
+"""there was misunderstanding around scheduling and now i need polished wording suggesting alternate time without sounding disorganized""",email
+"""i need official proof of employment for verification purpose and dont know the right professional wording for requesting such document""",email
+"""previous travel related receipts are needed urgently for reimbursement documentation and i need formal clear request wording""",email
+"""leave balance numbers in internal portal look confusing and before making assumptions i need professional wording asking for clarification""",email
+"""i need to explain delayed response to someone important becuase unexpected personal issue happened and i dont want to seem disrespectful""",email
+"""a shared service issue keeps affecting residents repeatedly and informal complaints havent helped so now stronger but still professional wording is needed""",email
+"""i need to communicate brief unexpected absence due to health issue while also reassuring pending responsibilities will still be handled""",email
+"""refund timeline already passed and money still hasnt returned so i need firm follow up wording that sounds professional not emotional""",email
+"""there was confusion in payment processing and i need clear explanation from relevant team without sounding like im accusing them immediately""",email
+"""i need to politely ask whether required verification process can be completed faster becuase external deadline is approaching and delay creates serious issue""",email
+"""someone senior agreed to review my profile earlier and i havent heard back in long time so i need respectful follow up wording""",email
+"""i need to communicate that i cannot attend planned discussion due to unavoidable conflict but still want to sound respectful and responsible""",email
+"""important shared materials never reached me and now im blocked from progressing so i need wording that politely communicates urgency without sounding rude""",email
+"""sum article short plz because i dont have time to read full thing and just need the main point and some quick idea""",summarization
+"""summarize this long report in few lines but keep only main idea because i need fast version""",summarization
+"""can u short this news article because its too long for me and i only want the main parts""",summarization
+"""give me tldr of this blog post and keep it simple because i want quick understanding""",summarization
+"""make this chapter summary because i need quick revision and dont want full details""",summarization
+"""shorten this paragraph but keep meaning same and dont change much because i still need the core idea""",summarization
+"""summarize lecture notes simple because i am preparing for exam and dont have time for full notes""",summarization
+"""give quick summary of meeting notes because i missed some parts and need to know what happened""",summarization
+"""need short version of this pdf content and just important points because full thing is too much""",summarization
+"""compress this text into 5 lines or less because i need very short version""",summarization
+"""summarize this story in short because i want quick recap and dont need all the details""",summarization
+"""short summary of article pls i just need main thing and nothing extra""",summarization
+"""make bullet summary of this content so i can read fast because i want simple points only""",summarization
+"""give recap of this meeting because i want to know what happened and who said what""",summarization
+"""summary this paper very short and easy to understand because i need simple version""",summarization
+"""this report is insanely long and i have meeting in like 20 mins and genuinely cannot read all these pages so i only need the key findings major decisions and anything actually important to sound informed""",summarization
+"""someone sent me huge wall of meeting notes with side conversations repeated points and random comments and i just need what actually happened what got decided and what actions matter""",summarization
+"""this research paper is packed with technical jargon and long explanations and i mostly need the core takeaway main findings and why it matters in simpler shorter form""",summarization
+"""i found this long article while researching but honestly the writer keeps rambling around same points and i only care about the main argument and useful takeaways""",summarization
+"""these lecture notes are ridiculously detailed and exam is close so i need only the most important concepts key facts and revision friendly version not full depth""",summarization
+"""this business document has way too much detail for what i need right now and i only want the important updates numbers risks and overall conclusion quickly""",summarization
+"""someone shared full webinar transcript but i dont have energy to go through pages of conversation so i just need the meaningful points and practical insights""",summarization
+"""this policy document is written in painfully formal language with endless clauses and i only need plain language version of what actually matters""",summarization
+"""i have this customer feedback dump with hundreds of comments and i dont need every single message just the common themes repeated complaints and major requests""",summarization
+"""this chapter takes forever to get to the point with examples stories and background and i only need the core concepts worth remembering for revision""",summarization
+"""my teammate sent giant project documentation and i need quick orientation about architecture flow responsibilities and important technical decisions not every implementation detail""",summarization
+"""this article compares multiple products across endless paragraphs and i only care about major differences strongest pros cons and practical conclusion""",summarization
+"""i have long interview transcript and most of it is filler conversation so i only need important statements useful insights and major discussion points""",summarization
+"""this economics explanation is taking too long to read and i mainly need the central idea major reasoning and essential examples in much smaller digestible form""",summarization
+"""these brainstorming notes are chaotic with half formed ideas and repeated thoughts and i need the real action items themes and unresolved questions pulled out clearly""",summarization
+"""this legal agreement looks massive and overwhelming and before i spend forever reading i just need basic understanding of obligations restrictions and important conditions""",summarization
+"""the article itself may be useful but im short on time and mostly need the central message plus maybe few supporting points without all the storytelling around it""",summarization
+"""these study notes are my own but way too messy and detailed now and i need a compact cleaner version that keeps important learning points only""",summarization
+"""this market analysis report goes deep into every segment and i only need big trends opportunities risks and conclusion before upcoming discussion""",summarization
+"""there is giant support issue log here and im trying to quickly understand what patterns are repeating rather than reading each individual case one by one""",summarization
+"""this chapter from textbook spends ages explaining context and history and i only need the practical conceptual parts likely relevant for assessment""",summarization
+"""someone pasted huge discussion thread into chat and i joined late so i only need enough context to know what decisions happened and where things currently stand""",summarization
+"""this whitepaper may be important but the language is dense and slow and i need a much lighter version focused on central ideas not every technical nuance""",summarization
+"""my manager forwarded long update from leadership and i mostly need strategic decisions timeline changes and key announcements without reading full essay""",summarization
+"""this product requirement document is enormous and before development starts i need only the critical requirements constraints and expected behavior overview""",summarization
+"""there is long academic explanation here but i just want the actual concept in easier smaller form becuase current wording makes my brain tired""",summarization
+"""these customer interview notes are long and repetitive and i need high level insights pain points desires and recurring patterns for product discussion""",summarization
+"""this biography section includes lots of side details but i only care about major life events turning points and important timeline moments""",summarization
+"""i missed class and got somebody elses very detailed notes but i need cleaner essential version that tells me what matters without all the side commentary""",summarization
+"""this company handbook is huge and i only need important employee rules expectations and practical things i should actually know right now""",summarization
+"""this podcast transcript is massive and i wont realistically read full thing so i only need main insights major opinions and worthwhile takeaways""",summarization
+"""there are many pages of survey responses and i just need common sentiment themes major frustrations and notable positive patterns""",summarization
+"""this technical tutorial explanation goes deeper than i need right now and i mainly want the practical flow and most important concepts in smaller form""",summarization
+"""the discussion notes here are extremely wordy and i need clear extraction of decisions responsibilities and next steps before project sync""",summarization
+"""this opinion piece uses lots of rhetorical examples and storytelling but i only need what position the author is actually arguing and why""",summarization
+"""my revision material became too bloated over time and i need a trimmed version that still preserves what is exam relevant""",summarization
+"""this feature comparison breakdown is long and exhausting and i mostly need final tradeoffs and what differentiates options clearly""",summarization
+"""there is giant internal communication thread and i need practical digest of who said what that actually changes our work""",summarization
+"""this startup pitch deck text explanation is longer than necessary and i only need the problem solution market and business idea essentials""",summarization
+"""i have giant project retrospective notes and mostly need top lessons mistakes wins and important improvement actions rather than full narrative""",summarization
+"""this science article includes detailed background methods and discussion but i only need the actual discovery plus why it matters in simple terms""",summarization
+"""someone dumped entire conference notes here and i just want strongest insights recurring themes and notable announcements quickly""",summarization
+"""the handbook chapter is useful but way too long for quick prep so i need compressed version focused on memorable essentials""",summarization
+"""there are pages of financial update details but i only care about big numbers major concerns and future direction without deep accounting detail""",summarization
+"""this long explanatory document has repeated points in different wording and i need only unique important ideas cleaned up into efficient form""",summarization
+"""these planning discussion logs are messy and i only need final agreed direction responsibilities and unresolved blockers""",summarization
+"""this product review article keeps repeating impressions across sections and i mostly need concise judgment around strengths weaknesses and recommendation""",summarization
+"""there is long case study narrative here but im interested mainly in problem approach outcome and lessons learned""",summarization
+"""this educational content is much more verbose than necessary for me right now and i only need distilled understanding of main topic""",summarization
+"""my friend sent pages of event notes and i just need short version of what happened important announcements and anything requiring action from me""",summarization
+"""i have meeting with leadership in like 15 mins and someone just dumped massive discussion notes from earlier sessions into my inbox and there is absolutely no way i can read all that in time so i only need the actual decisions action items and anything important i should not miss""",summarization
+"""this research document is insanely long full of technical language charts explanations and repeated details and i mostly just need the actual findings and why they matter becuase reading whole thing right now is impossible""",summarization
+"""my teammate sent giant wall of messy notes from client discussion with random comments side conversations and duplicate points and i only need what client actually asked for what changed and whats urgent""",summarization
+"""i missed class today and friend sent pages and pages of handwritten style typed notes that are all over the place and i just need the essential stuff worth knowing before next lecture""",summarization
+"""this legal agreement looks terrifyingly long and full of complicated wording and before spending an hour on it i mainly need to know the important obligations restrictions and risky parts""",summarization
+"""someone shared complete webinar transcript with every hello joke side conversation and i honestly dont care about all that i just need the useful takeaways and major discussion points""",summarization
+"""my manager forwarded huge internal update from leadership and i dont have patience or time to read every paragraph so i only need what actually changes for our team and anything requiring action""",summarization
+"""this textbook chapter spends forever giving history examples background and repeated explanations and exam is close so i only need the actual concepts that matter for remembering""",summarization
+"""there are hundreds of customer comments from feedback form and reading one by one sounds miserable so i mostly need common complaints repeated patterns and any strong positive themes""",summarization
+"""i found article that looked useful for research but author keeps going in circles repeating same argument with different wording and i just need the central point plus supporting ideas""",summarization
+"""this technical documentation dump is huge and i joined project late so i mostly need enough context to understand architecture major components and whats currently going on""",summarization
+"""someone pasted entire discussion thread with like 200 messages and i joined halfway so i only need what decisions happened where people disagreed and current status""",summarization
+"""there is giant product comparison breakdown with endless details and i honestly only care which options stand out what tradeoffs matter and overall practical conclusion""",summarization
+"""this scientific explanation might be useful but the language is so dense that i keep rereading same paragraph without understanding much so i need a much lighter version focused on actual meaning""",summarization
+"""my own study notes became ridiculously bloated becuase i kept adding everything and now revising from them feels impossible so i need only the important parts in cleaner digestible form""",summarization
+"""there is long investor related update full of numbers commentary context and strategic talk and i mostly need the major business changes concerns and future direction""",summarization
+"""i have giant transcript from interview conversation and most of it is casual filler so i only care about meaningful insights notable statements and things actually worth remembering""",summarization
+"""this market analysis report is so unnecessarily detailed that i feel exhausted looking at it and mostly need trends opportunities risks and what overall conclusion they reached""",summarization
+"""someone sent support ticket export with tons of issue logs and im trying to understand patterns not read every complaint manually one by one""",summarization
+"""this academic paper includes methodology details formulas references and all kinds of heavy material but i mostly need the actual discovery and practical meaning""",summarization
+"""our brainstorming notes are total chaos with half formed ideas random tangents repeated thoughts and no structure so i need actual useful outcomes extracted from the mess""",summarization
+"""i have long training handbook to review before tomorrow but realistically cannot read entire thing tonight so i mostly need the most important practical rules and concepts""",summarization
+"""there is giant case study narrative with lots of storytelling around the situation but i mainly care about problem approach outcome and lessons learned""",summarization
+"""someone sent full conference notes with every session detail but i only need strongest insights important announcements and anything people will likely discuss later""",summarization
+"""this economics article keeps layering background explanation after explanation and i mostly need the central idea and why people care about it""",summarization
+"""our retrospective notes from project are way too long and emotional with repeated discussions and i just need actual lessons mistakes wins and concrete next actions""",summarization
+"""there is giant company policy handbook and before i waste hours on it i mainly need the practical rules employees should actually remember""",summarization
+"""i have giant educational explanation in front of me and while it may be useful eventually right now i just need the core understanding without all the extra detail""",summarization
+"""somebody dumped podcast transcript into our shared doc and i definitely am not reading all that so i mostly need strongest insights opinions and actionable takeaways""",summarization
+"""there are dozens of survey responses from users and i need broad sentiment understanding recurring pain points and what themes appear most often""",summarization
+"""this feature requirement document is huge and before implementation starts i only need the critical expectations constraints and high level behavior overview""",summarization
+"""i got huge travel experience writeup from friend and while entertaining its way too long and i mostly need useful recommendations warnings and standout places""",summarization
+"""there is long biography chapter with endless personal details but i mainly need important timeline moments major life events and turning points""",summarization
+"""this comparison between software tools is exhausting to read and i mostly care about meaningful differences practical strengths weaknesses and best fit use cases""",summarization
+"""i have giant internal planning discussion log and mostly need final agreed direction open blockers and who is responsible for what""",summarization
+"""this educational resource clearly means well but its way too verbose and i need just the essential conceptual understanding without losing actual meaning""",summarization
+"""someone gave me pages of meeting notes before call and i only need enough context to not sound clueless when people start discussing earlier decisions""",summarization
+"""this product review breakdown spends ages describing tiny details and i mostly need overall judgment strongest positives biggest negatives and buying conclusion""",summarization
+"""there is giant compliance related document full of formal language and before i dive deep i just need to know what important obligations or warnings exist""",summarization
+"""i missed important strategy session and only have messy exported chat logs from participants so i need meaningful conclusions and major discussion themes extracted""",summarization
+"""this historical explanation is long and detailed but i mainly need the major events causes and consequences without getting lost in smaller side details""",summarization
+"""someone shared pages of handwritten converted notes and they are difficult to follow so i need cleaner understanding of what actually matters in them""",summarization
+"""there is large dataset commentary report and i dont care about every observation just biggest patterns strange findings and major conclusions""",summarization
+"""my teammate documented implementation journey in painful detail but i only need enough understanding to continue work without rereading their entire thought process""",summarization
+"""there are many pages of community discussion around proposed change and i mostly need where consensus exists what concerns dominate and what remains unresolved""",summarization
+"""this business proposal includes too much persuasive wording and fluff and i mainly need actual business idea risks assumptions and opportunity in simpler form""",summarization
+"""there is giant document around policy changes and i only need what changed from before and what directly affects day to day work""",summarization
+"""i have giant academic lecture transcript and while complete detail may be useful later right now i only need enough understanding for quick revision""",summarization
+"""somebody sent full product launch debrief with excessive detail and i mostly care what went right what failed and what should be improved next time""",summarization
+"""this long explanatory article probably has useful information but current wording is exhausting and i mainly need the actual insights in much more digestible form""",summarization
+"""ta structures becuase bfs dfs shortest path all seem like huge topic and i dont know where beginner starts""",learning
+"""please explain computer memory hierarchy becuase cache ram storage registers all blur together and i need clean conceptual learning""",learning
+"""help me learn prompt engineering practically becuase everyone talks about it now but i dont know what real skills are involved""",learning
+"""wanna learn recursion dont get it at all and need step by step explanation with simple example because all examples i saw are confusing""",learning
+"""teach me sql from basic because i know nothing and want start from zero and understand slowly""",learning
+"""explain oops concepts in easy way because the terms are confusing me and i keep forgetting them""",learning
+"""i want to study machine learning from start but i dont know where to begin and what topic comes first""",learning
+"""help me understand pointers because i keep mixing it up and every explanation feels too fast""",learning
+"""show step by step how binary search works and explain why it is used because i want to learn properly""",learning
+"""i dont understand probability help me learn it simple because i am very weak in it""",learning
+"""teach me grammar rules simple because i keep making mistakes and i want to improve""",learning
+"""how to learn english speaking fast because i need to improve soon and i dont know best way""",learning
+"""i want notes on photosynthesis because i forgot everything from school and need to study again""",learning
+"""explain inheritance with example and make it easy because i want to understand the idea clearly""",learning
+"""teach me python list basics because i am new and i keep getting confused with syntax""",learning
+"""help me learn statistics from scratch with simple words because i dont know where to begin""",learning
+"""i am confused with loops explain how they work because i keep mixing while and for""",learning
+"""how to study dsa properly because i get lost after some topics and dont know how to continue""",learning
+"""im completely confused by recursion becuase every example starts okay then suddenly functions are calling themselves and stack stuff comes in and i lose the whole idea so i need this concept broken down slowly from absolute zero""",learning
+"""sql has been on my list forever but whenever i open resources they assume i already know databases tables joins and random terms so i need a very beginner friendly path starting from basically nothing""",learning
+"""object oriented concepts always get mixed in my head like inheritance encapsulation polymorphism all sound familiar but never fully click so i need a simple step by step understanding that actually sticks""",learning
+"""machine learning seems interesting but honestly overwhelming becuase everyone throws words like preprocessing models training features evaluation all at once and i dont know what should mentally come first""",learning
+"""pointers in c absolutely destroy my confidence becuase i see stars ampersands memory addresses and everything becomes blurry so i need a painfully simple conceptual walkthrough""",learning
+"""binary search is something i memorized once for interview but if you ask me why it works i would probably fail badly so i need the actual thinking process behind it not just memorized logic""",learning
+"""probability has always been weak area for me and formulas make me panic before even trying so i need the intuition first with very simple examples before any math heavy stuff""",learning
+"""english grammar mistakes keep happening in my writing and speaking and random rules never stay in memory so i need some structured way to actually improve instead of guessing""",learning
+"""i can read english decently but speaking confidently is different story becuase my brain freezes while forming sentences so i need practical improvement approach not generic motivation""",learning
+"""photosynthesis is one of those school topics i technically studied but forgot almost everything except vague sunlight plant memories so i need clean conceptual rebuild from basics""",learning
+"""statistics terms like variance distribution deviation correlation all blur together in my head and every explanation feels abstract so i need grounded understanding from very basic level""",learning
+"""networking concepts keep showing up like dns ip tcp udp routers packets and i know random fragments but no coherent picture of how internet communication actually fits together""",learning
+"""javascript keeps confusing me becuase there are too many concepts like closures callbacks promises async behavior variable scope and i dont know what order makes sense for understanding""",learning
+"""database normalization keeps sounding way more scary than maybe it actually is and all the forms with numbered rules make it confusing so i need conceptual clarity without jargon overload""",learning
+"""cloud concepts like servers deployment virtual machines containers managed services all feel like giant buzzword soup and i need a structured beginner understanding""",learning
+"""linux terminal feels intimidating becuase windows background made me rely on clicking everything and now simple command line tasks make me nervous so i need practical onboarding""",learning
+"""operating system topics like processes threads scheduling memory management synchronization all start mixing together after few minutes so i need these concepts organized clearly""",learning
+"""calculus is becoming problem becuase my maths base is shaky and jumping directly into derivatives formulas doesnt help so i need intuitive progression from simpler building blocks""",learning
+"""system design discussions look like giant diagrams with arrows and scaling terms and i dont even know prerequisites needed before understanding those conversations""",learning
+"""web layout concepts confuse me becuase things look okay until responsiveness positioning alignment and spacing issues appear then i realize i never understood fundamentals properly""",learning
+"""cybersecurity feels important but resources either go too advanced or too fear based and i just need practical foundational understanding of common threats and protections""",learning
+"""blockchain explanations always start with dramatic claims or weird jargon and i still dont actually get the underlying concept clearly enough to explain it myself""",learning
+"""supervised unsupervised reinforcement categories sound easy until examples start overlapping and then i lose confidence in what belongs where and why""",learning
+"""data structure choice confuses me becuase arrays lists maps sets queues stacks all seem useful but i dont build intuition for when each one makes sense""",learning
+"""interview problem solving feels impossible becuase watching solutions makes sense after the fact but starting from blank screen destroys me and i need better thinking framework""",learning
+"""compiler related topics feel extremely theoretical with lexical parsing syntax semantic phases and i dont know how these parts connect into actual bigger picture""",learning
+"""request response authentication headers tokens endpoints all these web communication ideas are things i use by copying examples but conceptual understanding is weak""",learning
+"""economics concepts like inflation gdp interest rates supply demand recession all appear in news constantly but my understanding is embarrassingly shallow""",learning
+"""regex patterns genuinely look like keyboard smash magic and i need someone to slowly decode how to mentally read and build them instead of blindly copying""",learning
+"""spreadsheet tools are expected at work but beyond basic typing i feel underprepared with formulas filtering lookup style operations and dont know progression path""",learning
+"""neural network discussions quickly become math heavy and i lose track of actual intuition behind what layers weights and activations are doing conceptually""",learning
+"""memory behavior in programming confuses me becuase copying variables sometimes creates independent values and sometimes weird shared changes happen unexpectedly""",learning
+"""time complexity kind of makes sense in simple cases but then comparisons between approaches become confusing and i lose intuition around what efficient actually means""",learning
+"""login related web concepts overlap badly in my head like sessions cookies tokens authentication authorization and i need clean separation of these ideas""",learning
+"""testing terminology keeps appearing in software contexts like unit integration regression smoke acceptance and i vaguely know words but not practical distinctions""",learning
+"""computer hardware concepts like cpu cache registers ram storage buses and instruction flow never formed a clean mental model for me""",learning
+"""graphs in algorithms feel like giant intimidating topic with traversals shortest paths weighted unweighted representations and i dont know entry point""",learning
+"""process synchronization topics with deadlocks semaphores race conditions seem difficult mostly becuase terminology itself feels scary before understanding begins""",learning
+"""sql joins are one of those things i repeatedly revisit and still mix up becuase examples feel artificial and practical intuition never sticks""",learning
+"""statistical hypothesis ideas like significance confidence intervals and p values get explained differently everywhere and my understanding stays shaky""",learning
+"""container concepts confuse me becuase people talk like they are lightweight magic environments and i need simple concrete understanding of what problem they solve""",learning
+"""prompt writing for ai tools seems like real skill now but i dont know what separates random asking from actually getting consistently better results""",learning
+"""public speaking anxiety kills me even when i know content and i need practical skill building approach rather than generic just be confident advice""",learning
+"""design principles for user interfaces interest me but every resource jumps into fancy terminology without first building simple reasoning about good decisions""",learning
+"""finance basics are weak for me like budgeting investing compound growth risk allocation and i want practical foundational understanding without assuming prior knowledge""",learning
+"""algorithms feel less like coding problem and more like thinking problem which is exactly where i struggle so i need help building that problem decomposition mindset""",learning
+"""version control concepts beyond basic saving changes feel confusing especially branches merging conflicts history and collaborative workflow mental model""",learning
+"""data analysis workflow from raw messy information to actual insight feels unclear and i need bigger picture understanding of how professionals think through it""",learning
+"""computer architecture performance topics like pipelining branch prediction parallelism multicore behavior all sound advanced but i want approachable conceptual entry""",learning
+"""encryption and hashing get mentioned like common knowledge but i dont actually have clean intuition for what makes them different and when each matters""",learning
+"""every single time recursion starts making a little sense for maybe two minutes and then function calls stacking on each other completely destroys my understanding and i realize i never actually built proper mental model for what is happening""",learning
+"""people casually talk about sql joins like its obvious but whenever i see multiple tables and matching data my brain freezes and i cant confidently reason about what rows should appear in output""",learning
+"""machine learning sounds exciting until people start casually throwing around features preprocessing models overfitting validation and suddenly i realize i understand almost none of the bigger picture""",learning
+"""object oriented concepts are one of those things i have technically seen many times but inheritance encapsulation polymorphism still blur together and i cant clearly explain difference even to myself""",learning
+"""pointers completely destroy my confidence becuase once memory addresses star symbols and references appear i stop understanding what values even live where""",learning
+"""binary search feels like one of those things i memorized once just enough to survive but if i had to reason through why each step works from scratch i would probably fail badly""",learning
+"""probability was never my strongest area and every formula immediately makes me anxious before i even try so i clearly need stronger intuition before all the symbolic math""",learning
+"""i can understand english pretty well while reading but when speaking my brain gets slow awkward and blank so there is clearly some skill gap i havent figured out how to improve""",learning
+"""statistics discussions use words like variance deviation distribution correlation so casually but to me they all still feel like floating disconnected terms without real intuition""",learning
+"""networking concepts keep appearing everywhere like dns tcp udp routing packets ports and i know fragments of these words but not coherent understanding of how everything fits together""",learning
+"""javascript always starts okay until asynchronous behavior callbacks promises closures event loop stuff enters and then my understanding falls apart fast""",learning
+"""database normalization sounds terrifying mostly becuase explanations make it feel like some rigid academic puzzle instead of practical design reasoning""",learning
+"""cloud discussions feel like buzzword storm with containers virtual machines managed services deployments and i dont even know what mental foundation should come first""",learning
+"""linux terminal still feels intimidating becuase ive spent years clicking buttons in graphical interfaces and command line interaction makes simple tasks feel risky""",learning
+"""operating system topics like processes threads memory scheduling synchronization all blend together after while and i lose track of what each thing actually represents""",learning
+"""calculus becomes frustrating becuase lessons often jump directly into symbolic manipulation while my intuition for what the concepts actually mean is weak""",learning
+"""system design conversations look impressive but also overwhelming with architecture diagrams scaling bottlenecks load balancing and i dont know where beginner understanding should even begin""",learning
+"""web layout work feels random sometimes becuase small visual fixes happen by trial and error and i clearly lack stronger mental model for spacing positioning and responsiveness""",learning
+"""cybersecurity seems important but most explanations either go too advanced too fast or become dramatic fear content instead of helping build calm foundational understanding""",learning
+"""blockchain is one of those topics people confidently discuss but every explanation ive seen either becomes marketing hype or dense jargon and i still cant explain core idea simply""",learning
+"""data structures are confusing becuase many options seem useful and i lack instinct for when specific approaches make more sense than others in practical situations""",learning
+"""interview problem solving feels brutal becuase once solution is shown it seems obvious but starting from blank screen leaves me completely stuck with no structured thinking process""",learning
+"""compiler related concepts like lexical analysis parsing semantic checks and transformation stages feel abstract and disconnected instead of forming one understandable pipeline""",learning
+"""api related concepts are weird becuase i can use examples that work but if someone asked what is really happening between systems i wouldnt explain confidently""",learning
+"""economics news keeps mentioning inflation rates interest decisions gdp growth and recession concerns and my understanding is embarrassingly shallow beyond surface words""",learning
+"""regex patterns honestly look like ancient cryptic symbols and i never developed ability to mentally read what a pattern is even trying to match""",learning
+"""spreadsheet tools are expected professionally but my skills are embarrassingly basic and advanced workflows with formulas lookups filtering and analysis feel out of reach""",learning
+"""neural network discussions quickly become mathematical and abstract while i still havent built intuitive understanding of what these layered systems are trying to accomplish""",learning
+"""time complexity sounds understandable in simple examples but comparing real approaches gets confusing fast and my instinct for efficiency is weak""",learning
+"""login related concepts are messy in my head becuase cookies sessions tokens permissions identity verification and access rules all overlap confusingly""",learning
+"""testing terminology appears everywhere in software discussions and i vaguely recognize names but practical differences between those testing styles arent clear in my head""",learning
+"""computer hardware concepts like cache registers ram buses and instruction flow never formed a clean internal picture so performance discussions feel abstract""",learning
+"""graph related algorithm topics look massive and intimidating with traversal shortest path cycle detection weighted behavior and i dont know how to mentally approach the topic""",learning
+"""concurrency topics become stressful becuase race conditions deadlocks synchronization primitives and timing dependent bugs all sound scary before i even begin understanding""",learning
+"""sql joins specifically keep humiliating me becuase i revisit them repeatedly and still get confused predicting what final table output should actually look like""",learning
+"""hypothesis testing discussions around significance confidence intervals and p values always sound more complicated than they probably are and my understanding stays shaky""",learning
+"""container technology conversations make it sound obvious why isolated environments matter but i still lack clear practical intuition for what problem they solve""",learning
+"""prompt writing for ai systems seems like a genuine skill but right now my approach is basically random trial and error without understanding what improves results consistently""",learning
+"""public speaking anxiety makes even familiar topics difficult becuase thoughts become disorganized under pressure and clearly some communication skill building is needed""",learning
+"""user experience design looks simple from outside but making good interface decisions consistently feels mysterious without stronger design reasoning fundamentals""",learning
+"""financial concepts like budgeting investing compound growth risk diversification and debt management were never properly built into my understanding so decisions feel uncertain""",learning
+"""version control beyond basic save and upload style usage becomes confusing quickly once branching merging history conflicts and collaboration workflows appear""",learning
+"""data analysis from messy raw information to actual meaningful conclusions feels like missing bridge in my understanding becuase isolated tools dont show bigger workflow""",learning
+"""computer architecture performance topics like pipelining parallel execution and prediction mechanisms sound advanced but i want approachable conceptual understanding""",learning
+"""encryption hashing and related security concepts get mentioned constantly and i know they are different but cannot confidently articulate why or when each matters""",learning
+"""design patterns in software discussions often sound like insider vocabulary and i dont yet have enough practical experience to naturally understand why certain patterns exist""",learning
+"""functional programming ideas feel unfamiliar becuase thinking in immutable transformations and composition is very different from how i originally approached problem solving""",learning
+"""distributed systems conversations mention consistency partitions replication failures coordination and i realize my mental model for systems across machines is extremely weak""",learning
+"""mathematical notation itself sometimes becomes barrier becuase concept may not even be impossible but symbolic representation makes everything feel harder than it should""",learning
+"""search algorithms and optimization strategies often feel like memorized procedures instead of ideas i can reason through naturally when facing new problems""",learning
+"""plan trip udaipur cheap budget because i want 3 days trip and need where to stay what to see and how to manage travel low cost because i am trying to save money""",planning
+"""make study plan for 2 weeks before exam because i always waste time and need proper schedule or i will not finish syllabus""",planning
+"""help me plan workout routine because i want something realistic and not too hard and i can follow daily""",planning
+"""create project roadmap for app launch because i need steps and timeline and i dont know how to break work into parts""",planning
+"""plan 3 day office event schedule and make it easy to follow because i have many things to arrange""",planning
+"""need itinerary for goa trip with cheap budget and good places to visit because i want everything in one plan""",planning
+"""make weekly meal plan for diet because i dont know what to eat every day and i need simple routine""",planning
+"""help plan wedding checklist because there are so many things and i am getting confused and forgetting stuff""",planning
+"""plan daily routine for coding practice so i can stay consistent and not skip days""",planning
+"""create roadmap to learn dsa in 2 months with clear plan because i need a proper path""",planning
+"""plan budget for monthly expenses because i want to save money properly and not spend without thinking""",planning
+"""make timeline for college project because we have limited time and need to finish in order""",planning
+"""create travel plan for jaipur with places food and travel details because i want a full plan""",planning
+"""plan revision schedule for exams because i need a proper timetable and i keep delaying study""",planning
+"""help me make task list for startup because i want to organize work better and not miss important things""",planning
+"""my exams are about 3 weeks away and im honestly behind on multiple subjects becuase i wasted too much time earlier and now everything feels overwhelming so i need a realistic day by day structure that doesnt look good only on paper and then fail immediately""",planning
+"""i want to switch into tech from completely different background but there are too many moving parts like skills projects applications interviews and timelines so i need some structured path instead of randomly consuming content and going nowhere""",planning
+"""salary comes in every month and somehow disappears without me even understanding where it went so i need a practical structure for spending savings bills and avoiding stupid impulse purchases becuase current system is basically chaos""",planning
+"""me and my friends keep talking about taking a trip together but nobody agrees on destination budget or timing and discussion goes in circles so i need some realistic structure that makes this actually happen""",planning
+"""i keep saying i will become consistent with fitness but every routine i try is either way too extreme or too vague so i need something practical around my actual schedule that wont make me quit after few days""",planning
+"""college project has become messy becuase team members are doing things randomly deadlines are unclear and nobody knows what should happen first so i need proper breakdown of responsibilities and timeline""",planning
+"""i have full time job but also want to improve my skills after work without destroying sleep and sanity so i need some workable weekly structure instead of unrealistic motivational nonsense""",planning
+"""family wedding preparations are becoming complete madness with random tasks appearing every day from different relatives and i need some organized timeline so important things dont get forgotten""",planning
+"""im thinking about launching small side business idea but right now its just scattered thoughts and excitement without actual sequence so i need structured direction from idea stage to first launch""",planning
+"""there are too many things happening this semester between classes assignments applications and personal stuff and i keep reacting instead of staying ahead so i need some actual organization system""",planning
+"""i want to prepare for interviews in limited time but topics like algorithms databases systems communication and projects all compete for attention so i need clear sequencing and realistic pacing""",planning
+"""im moving to another city soon for work and the amount of things to think about like housing documents packing utilities travel setup is making my brain overheat so i need organized checklist style structure""",planning
+"""i want to improve english speaking but random practice hasnt worked and i need some consistent structured routine that fits around my current responsibilities""",planning
+"""our small startup team keeps arguing about what features matter first and scope keeps expanding every discussion so we need some logical way to structure progress before we build nonsense""",planning
+"""i need to recover academically after poor performance earlier this term and just saying work harder clearly isnt enough so i need realistic recovery structure with priorities and pacing""",planning
+"""im trying to save for expensive purchase within few months but my spending discipline is weak and i need actual month by month structure rather than vague intention""",planning
+"""first solo travel experience sounds exciting but also stressful becuase safety budgeting transport and not getting overwhelmed all matter so i need thoughtful structure not random suggestions""",planning
+"""i keep collecting online courses and never finishing anything becuase there is no real structure so i need some progression path that makes skill building actually happen""",planning
+"""meals during work week are disaster becuase when tired i order junk without thinking so i need sustainable system around food prep shopping and simple repeatable choices""",planning
+"""im trying to balance multiple freelance commitments and keep underestimating how long things take so deadlines become stressful and i need better workload organization""",planning
+"""there is community event im helping with and too many moving pieces like venue communication volunteers schedule materials and backup handling so i need operational structure""",planning
+"""i want to build stronger daily habits like reading exercise reduced screen time and sleep consistency but motivation based attempts always collapse so i need something more systematic""",planning
+"""international travel for first time feels overwhelming with documents airport timing luggage money connectivity and unknown rules so i need end to end structured preparation""",planning
+"""hackathon weekends usually become chaotic for our team becuase we overscope waste time and panic near deadline so i need better structure around idea execution timing and division""",planning
+"""i want to create online content consistently but currently ideas stay in notes and nothing gets produced becuase workflow around creation is missing""",planning
+"""home organization has become embarrassing with clutter everywhere digital files also a mess and i need practical structure to clean organize and maintain things without doing everything at once""",planning
+"""my family wants relaxed vacation with parents involved so pacing comfort budget and not exhausting everyone matters which makes organizing this harder than simple fast trip""",planning
+"""i want to prepare for competitive exam with huge syllabus and mock tests but without structure i just bounce between topics and feel fake productive""",planning
+"""there are multiple debt payments stressing me out and i need some rational approach to prioritize payments reduce pressure and stop making emotional decisions""",planning
+"""i keep wanting to write longer personal project but vague inspiration alone never becomes progress so i need some structure around milestones writing rhythm and manageable goals""",planning
+"""im considering adopting pet but before emotional decision i need realistic structure around time cost responsibilities daily care and long term commitment""",planning
+"""our ecommerce launch has too many parts like payments listings shipping customer support testing and i need coherent rollout structure so obvious mistakes dont happen""",planning
+"""i want healthier mornings but currently snooze repeatedly rush everything and start day stressed so i need gradual structure that actually changes routine realistically""",planning
+"""career growth feels random right now and i want more intentional direction around skill development networking visibility and opportunity readiness over next months""",planning
+"""i need to organize academic application process becuase deadlines documents tests recommendations essays all happening at different times and missing one thing could ruin everything""",planning
+"""im trying to improve public speaking confidence but random attempts arent helping and i probably need structured progression rather than occasional forced exposure""",planning
+"""software portfolio building feels unclear becuase i dont know what kind of projects make sense what order difficulty should increase or how to stay consistent""",planning
+"""there is family relocation coming and logistics around schools housing transport paperwork finances and timelines are getting complicated fast so i need structured overview""",planning
+"""my weekly responsibilities feel fragmented and reactive and i want better rhythm around work personal errands learning rest and relationships instead of constant mental clutter""",planning
+"""fitness goal involves event months away and i know jumping too hard early is stupid so i need gradual progression around training recovery and consistency""",planning
+"""i want to improve financial literacy and investing habits but random videos arent enough so i need structured progression from basics to practical actions""",planning
+"""friend group gathering always becomes scheduling nightmare with everyone replying late budget mismatches and preference conflicts so i need cleaner coordination approach""",planning
+"""i have lots of screenshots notes bookmarks saved resources for learning but zero organization and revisiting anything is painful so i need information management structure""",planning
+"""productivity advice online is either too intense or unrealistic and i need workable personal system for task prioritization focus sessions and avoiding procrastination spirals""",planning
+"""there are multiple parallel responsibilities at work and i keep context switching badly which kills productivity so i need more deliberate workload structuring""",planning
+"""creative side project has exciting vision but no execution rhythm and every week passes with no progress so i need practical milestone based structure""",planning
+"""health checkups medications diet changes and routine management for family member are becoming hard to track manually so i need organized recurring system""",planning
+"""im trying to rebuild discipline after long burnout period so aggressive schedules are bad idea and i need gentle but intentional structure for regaining consistency""",planning
+"""too many long term goals compete for attention and i keep making zero meaningful progress on any of them so i need prioritization framework not just motivation""",planning
+"""my exams are only few weeks away and im behind in multiple subjects becuase i wasted way too much time earlier thinking i would catch up later and now everything feels like giant mess so i need some realistic structure that doesnt collapse after two days""",planning
+"""im trying to switch careers into tech while still working full time and between learning projects applications networking and interviews i feel scattered with no clear direction so i need actual structure instead of random effort""",planning
+"""salary comes in every month and somehow disappears into food subscriptions random shopping and untracked spending and i seriously need some disciplined structure before i keep repeating same cycle""",planning
+"""me and my freinds keep talking about doing trip together but every conversation becomes argument about money destination dates and comfort levels so i need some practical way to organize this into something real""",planning
+"""i want to get healthier but every routine online either expects superhuman discipline or feels too vague to follow so i need something that fits normal life and can actually be sustained""",planning
+"""our college group project is slowly turning into chaos becuase nobody owns tasks deadlines keep shifting and everyone assumes someone else is handling things so i need proper structure around execution""",planning
+"""after work i want to consistently improve my skills but evenings disappear into exhaustion and distractions and i clearly need a realistic weekly structure instead of motivational fantasy""",planning
+"""family wedding preparations are happening from all directions with random tasks expenses people expectations and im losing track badly so i need some organized structure before important things get missed""",planning
+"""small business idea feels exciting but right now its mostly random thoughts notes and enthusiasm without clear sequence for turning it into something real""",planning
+"""this semester has assignments applications personal commitments and random emergencies all colliding together and im constantly reacting instead of staying ahead so i need better structure""",planning
+"""technical interview preparation feels overwhelming becuase there are too many topics competing for attention and i dont know how to structure effort across limited time""",planning
+"""im relocating for job soon and things like housing documents transport packing utilities and first week survival are making my brain overheat so i need some organized preparation structure""",planning
+"""my english speaking confidence is poor even though i understand reasonably well and random attempts havent helped so i need some consistent progression that fits daily life""",planning
+"""our startup discussions keep expanding scope every single meeting and feature ideas multiply faster than execution so we need practical structure around priorities and progress""",planning
+"""my academic performance has dropped badly and vague promises to work harder clearly arent enough so i need realistic recovery structure with actual priorities""",planning
+"""i need to save meaningful amount within limited months for expensive purchase but current spending discipline is weak and vague intentions are clearly not enough""",planning
+"""first solo travel sounds exciting but also stressful becuase safety budgeting logistics and decision fatigue all matter and i need thoughtful structure not random suggestions""",planning
+"""i keep collecting courses resources and tutorials but finishing almost nothing becuase there is no coherent progression and i need something more intentional""",planning
+"""workweek food habits are terrible becuase tiredness leads to random unhealthy ordering and wasted money so i need sustainable system around meals shopping and prep""",planning
+"""multiple freelance commitments are overlapping and i keep underestimating effort causing stressful deadline crunches so i need stronger workload organization""",planning
+"""community event has too many moving parts like volunteers communication venue timing materials and backup handling and right now everything feels loosely held together""",planning
+"""i want stronger habits around reading movement sleep and reducing mindless scrolling but motivation driven attempts always die quickly so i need structured consistency""",planning
+"""international travel for first time feels like giant unknown with airport processes documents luggage payments and connectivity concerns and i need end to end preparation structure""",planning
+"""hackathon weekends usually become chaotic becuase our team wastes early hours debating and later panics trying to finish impossible scope so we need much better execution structure""",planning
+"""content creation sounds fun in theory but my ideas just sit in notes becuase there is no actual workflow from concept to finished output""",planning
+"""my room workspace and digital files are embarrassingly disorganized and its affecting focus badly so i need manageable structure for cleanup without overwhelming myself""",planning
+"""family vacation has to balance parents comfort budget slower pacing and actually enjoyable destinations which makes it harder than just spontaneous travel choices""",planning
+"""competitive exam preparation feels fake productive right now becuase i jump randomly between topics without consistent progression or measurable direction""",planning
+"""debt from multiple places is mentally exhausting and emotional decision making isnt helping so i need rational structure around repayment priorities and stability""",planning
+"""creative long form personal project has existed only in my head for months becuase inspiration alone never becomes output and i need execution structure""",planning
+"""im seriously considering adopting pet but before emotional decision i need realistic structure around finances daily routines emergencies and long term responsibility""",planning
+"""online store launch has too many connected parts like payments shipping inventory support listings and testing and i need clearer rollout structure""",planning
+"""my mornings are rushed stressful and full of snoozing and i want to gradually become someone who starts day with more control instead of chaos""",planning
+"""career growth currently feels accidental rather than intentional and i want more structured direction around skills visibility opportunities and future readiness""",planning
+"""application process for further studies involves tests documents deadlines recommendations essays and i genuinely fear missing something important without better organization""",planning
+"""communication confidence in professional settings is weak and random practice hasnt changed much so i need structured progression rather than occasional attempts""",planning
+"""portfolio building for software roles feels unclear becuase i dont know what to build in what order or how to make effort actually meaningful""",planning
+"""family relocation involves paperwork housing budgeting transport emotional adjustment and timeline coordination and everything feels like giant moving puzzle""",planning
+"""my weekly life feels fragmented with work errands obligations learning and rest all competing without rhythm so mental clutter stays constantly high""",planning
+"""fitness goal tied to future event needs consistency without injury or burnout and i know jumping aggressively would be dumb so progression needs thought""",planning
+"""personal finance knowledge is weak and random internet advice creates more confusion so i need structured direction from basics toward practical better decisions""",planning
+"""friend group gatherings become scheduling disasters with delayed replies conflicting budgets and indecision so we clearly need cleaner coordination approach""",planning
+"""saved screenshots bookmarks notes and random learning materials are everywhere and retrieving anything useful later is painful so i need organizational system""",planning
+"""productivity advice online often feels unrealistic and i need something grounded for prioritizing work protecting focus and reducing procrastination spirals""",planning
+"""too many parallel responsibilities at work are causing constant context switching and exhaustion so i need better structure for handling competing demands""",planning
+"""creative side effort has exciting potential but zero execution rhythm and weeks disappear without movement so some milestone based structure is needed""",planning
+"""health related routines for family member involving appointments medicines monitoring and recurring tasks are becoming hard to track casually and need organization""",planning
+"""im recovering from burnout so extreme discipline systems would backfire badly but complete randomness also isnt helping and i need gentle intentional structure""",planning
+"""too many long term ambitions compete for attention and because of that im making weak progress on all of them instead of meaningful progress on few""",planning
+"""daily life feels reactive becuase i keep handling urgent things while important longer term goals get ignored and i clearly need better structure around priorities""",planning

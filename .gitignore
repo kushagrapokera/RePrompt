@@ -1,0 +1,31 @@
+# Model checkpoints (large binaries, push to HuggingFace Hub instead)
+lfm25_intent_cls_vanilla/
+distilbert_intent_model/
+intent_cls_lora/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.eggs/
+
+# Query log (user data)
+query_log.jsonl
+
+# Environment / config
+.claude/
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+plan.md
+Project.md

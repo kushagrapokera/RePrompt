@@ -1,0 +1,163 @@
+.reprompt-btn {
+  position: fixed !important;
+  z-index: 9999 !important;
+  display: inline-grid !important;
+  place-items: center !important;
+  width: 48px !important;
+  height: 48px !important;
+  padding: 0 !important;
+  border: 1px solid rgba(17, 17, 17, 0.12) !important;
+  border-radius: 999px !important;
+  background: linear-gradient(160deg, #ffffff, #f1f1f1) !important;
+  box-shadow: 0 12px 28px rgba(17, 17, 17, 0.18) !important;
+  cursor: pointer !important;
+  line-height: 1 !important;
+  user-select: none !important;
+  touch-action: none !important;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease !important;
+}
+
+.reprompt-btn:hover {
+  transform: translateY(-2px) scale(1.02) !important;
+  box-shadow: 0 16px 32px rgba(17, 17, 17, 0.22) !important;
+}
+
+.reprompt-btn:active {
+  transform: translateY(0) scale(0.98) !important;
+}
+
+.reprompt-btn--dragging {
+  cursor: grabbing !important;
+  transform: scale(1.03) !important;
+  box-shadow: 0 18px 36px rgba(17, 17, 17, 0.24) !important;
+  transition: none !important;
+}
+
+.reprompt-btn:disabled {
+  opacity: 0.78 !important;
+  cursor: not-allowed !important;
+  transform: none !important;
+}
+
+.reprompt-btn__logo,
+.reprompt-btn__status {
+  grid-area: 1 / 1 !important;
+  pointer-events: none !important;
+}
+
+.reprompt-btn__logo {
+  width: 30px !important;
+  height: 30px !important;
+  object-fit: contain !important;
+  -webkit-user-drag: none !important;
+  transition: opacity 0.18s ease, transform 0.18s ease !important;
+}
+
+.reprompt-btn__status {
+  width: 100% !important;
+  text-align: center !important;
+  font-size: 18px !important;
+  color: #ffffff !important;
+  opacity: 0 !important;
+  transition: opacity 0.18s ease !important;
+}
+
+.reprompt-btn[data-status="loading"] .reprompt-btn__logo,
+.reprompt-btn[data-status="done"] .reprompt-btn__logo,
+.reprompt-btn[data-status="error"] .reprompt-btn__logo {
+  opacity: 0 !important;
+  transform: scale(0.85) !important;
+}
+
+.reprompt-btn[data-status="loading"] .reprompt-btn__status,
+.reprompt-btn[data-status="done"] .reprompt-btn__status,
+.reprompt-btn[data-status="error"] .reprompt-btn__status {
+  opacity: 1 !important;
+}
+
+.reprompt-btn[data-status="loading"] .reprompt-btn__status::before {
+  content: "o" !important;
+}
+
+.reprompt-btn[data-status="done"] .reprompt-btn__status::before {
+  content: "+" !important;
+  color: #0f7b35 !important;
+}
+
+.reprompt-btn[data-status="error"] .reprompt-btn__status::before {
+  content: "!" !important;
+  color: #b42318 !important;
+}
+
+.reprompt-btn--loading {
+  background: linear-gradient(160deg, #111111, #2d2d2d) !important;
+}
+
+.reprompt-btn--loading .reprompt-btn__status {
+  animation: reprompt-spin 0.8s linear infinite !important;
+}
+
+.reprompt-btn--done {
+  background: linear-gradient(160deg, #ebfff1, #cef5da) !important;
+}
+
+.reprompt-btn--error {
+  background: linear-gradient(160deg, #fff1f1, #ffd9d9) !important;
+}
+
+@keyframes reprompt-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.reprompt-badge {
+  position: fixed !important;
+  z-index: 9999 !important;
+  padding: 4px 10px !important;
+  font-size: 11px !important;
+  font-family: "Segoe UI", sans-serif !important;
+  font-weight: 600 !important;
+  color: #111111 !important;
+  background: rgba(255, 255, 255, 0.92) !important;
+  border: 1px solid rgba(17, 17, 17, 0.1) !important;
+  border-radius: 999px !important;
+  white-space: nowrap !important;
+  box-shadow: 0 10px 24px rgba(17, 17, 17, 0.14) !important;
+  opacity: 0 !important;
+  transition: opacity 0.3s ease !important;
+  pointer-events: none !important;
+}
+
+.reprompt-badge--visible {
+  opacity: 1 !important;
+}
+
+.reprompt-toast {
+  position: fixed !important;
+  bottom: 24px !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+  z-index: 99999 !important;
+  padding: 12px 20px !important;
+  font-size: 14px !important;
+  font-family: "Segoe UI", sans-serif !important;
+  color: #ffffff !important;
+  background: #1f2937 !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3) !important;
+  opacity: 0 !important;
+  transition: opacity 0.3s ease, transform 0.3s ease !important;
+  pointer-events: none !important;
+  max-width: 90vw !important;
+  text-align: center !important;
+}
+
+.reprompt-toast--visible {
+  opacity: 1 !important;
+  transform: translateX(-50%) translateY(-8px) !important;
+}
